@@ -1,3 +1,109 @@
 <resources>
-    <string name="app_name">greencard</string>
+    <string name="app_name">Behaviour Greencard</string>
+    <string name="teks_laporan">Laporan Bahaya (TTA) PT Bukit Makmur Mandiri Utama</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_karyawan_yang_menemukan_laporan_bahaya">Nama karyawan yang menemukan laporan bahaya (TTA)</string>
+    <string name="nik">NIK</string>
+    <string name="nomor_induk_karyawan">Nomor Induk Karyawan</string>
+    <string name="jabatan">Jabatan</string>
+    <string-array name="jabatan_array">
+        <item>Project Manager</item>
+        <item>Manager</item>
+        <item>Kabag/Superintendent</item>
+        <item>Supervisor</item>
+        <item>Foreman</item>
+        <item>Mekanik</item>
+        <item>Operator</item>
+        <item>Admin</item>
+        <item>Helper</item>
+    </string-array>
+    <string name="section">Section</string>
+    <string-array name="section_array">
+        <item>Production</item>
+        <item>Plant</item>
+        <item>Engineering</item>
+        <item>SHE</item>
+        <item>Logistik</item>
+        <item>Finance</item>
+        <item>GS</item>
+        <item>MCD</item>
+        <item>IT</item>
+        <item>HR</item>
+        <item>BE</item>
+        <item>LCD</item>
+        <item>ICC</item>
+    </string-array>
+    <string name="perusahaan_tempat_bekerja">Perusahaan Tempat Bekerja</string>
+    <string-array name="perusahaan_array">
+        <item>PT. BUMA</item>
+        <item>PT. United Tractor</item>
+        <item>PT. DNX</item>
+        <item>PT. Trakindo Utama</item>
+        <item>PT. Eka Dharma Jaya Sakti (EDJS)</item>
+        <item>PT. Majau Inti Jaya</item>
+        <item>CV. Karya Amanda</item>
+        <item>PT. Salwa Jaya</item>
+        <item>PT. Hakiki Inti Sejati</item>
+        <item>PT. Buana Indah Lalebata</item>
+        <item>PT. Transkon Rent</item>
+        <item>Koperasi BKB</item>
+        <item>PT. Cahaya Sakti Jaya</item>
+        <item>PT. PUP</item>
+        <item>PT. Virtus Facility Services</item>
+        <item>CV. Pratama Jaya (Puncak Makmur Jaya)</item>
+        <item>CV. Bagong Motor</item>
+        <item>PT. Sambakungan Samburakat Maluang Lati</item>
+        <item>PT Kinend</item>
+        <item>PT. Altrak 1978</item>
+        <item>PT. MUK3</item>
+        <item>PT. Berkat Teman Sejati</item>
+        <item>PT. Sanggar Sarana Baja</item>
+        <item>CV. Teguh Harapan</item>
+        <item>CV. Tiara</item>
+        <item>PT. Hexindo Adiperkasa (HAP)</item>
+        <item>PT. Pangansari Utama</item>
+        <item>PT. Atlas Copco Nasional (Epiroc SA)</item>
+        <item>PT. Permata Dwitunggal Abadi</item>
+        <item>PT. Resty Nur</item>
+        <item>PT. PDMJ</item>
+        <item>PT. Maju Asri Jaya</item>
+    </string-array>
+    <string name="tanggal">Tanggal</string>
+    <string name="tanggal_temuan">Tanggal temuan</string>
+    <string name="jam">Jam</string>
+    <string name="lokasi">Lokasi</string>
+    <string-array name="lokasi_array">
+        <item>Pit PQRT Lw Utara</item>
+        <item>Pit PQRT Lw Selatan</item>
+        <item>Pit PQRT HW</item>
+        <item>Pit East 2</item>
+        <item>Pit ON2 Utara</item>
+        <item>CPP</item>
+        <item>WMP</item>
+        <item>Jalan Hauling</item>
+        <item>Workshop</item>
+        <item>Pit Stop</item>
+        <item>Gudang Handak</item>
+        <item>Jetty/Dermaga</item>
+        <item>TPS LB3</item>
+        <item>Fuel Station</item>
+        <item>Warehouse</item>
+        <item>Office</item>
+        <item>Nursery</item>
+        <item>Dapur</item>
+        <item>Kantin</item>
+        <item>Klinik</item>
+        <item>Sump</item>
+        <item>Mess</item>
+        <item>Pos Gabungan</item>
+    </string-array>
+    <string name="perusahaan_yang_di_observasi">Perusahaan yang di observasi</string>
+    <string name="jenis_kegiatan_yang_diobservasi">Jenis kegiatan yang di observasi</string>
+    <string name="contoh_kegiatan">Contoh : Kegiatan loading OB, Kegiatan Perbaikan Jalan, Kegiatan Service Unit, dll</string>
+    <string name="detail_lokasi">Detail Lokasi</string>
+    <string name="detail_lokasi_contoh">Detail lokasi contoh : Disposal elevasi +90 Lw Utara, Workshop bigshop, Workshop DT, Front Loading Hitachi 2500-09, Jalan hauling KM 3.500</string>
+    <string name="kronologi_temuan">Kronologi Temuan</string>
+    <string name="kategori_resiko">Kategori/Resiko</string>
+    <string name="akar_masalah">Akar Masalah</string>
+    <string name="next_button">Next</string>
 </resources>
