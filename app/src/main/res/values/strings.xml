@@ -105,5 +105,10 @@
     <string name="kronologi_temuan">Kronologi Temuan</string>
     <string name="kategori_resiko">Kategori/Resiko</string>
     <string name="akar_masalah">Akar Masalah</string>
+    <string name="tindakan_perbaikan">Tindakan Perbaikan</string>
+    <string name="tindakan_pencegahan">Tindakan Pencegahan</string>
+    <string name="status_temuan">Status Temuan</string>
     <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="submit_button">Submit</string>
 </resources>
